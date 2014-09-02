@@ -1,0 +1,141 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: u盾写入 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "G:\Users\ADMINI~1\AppData\Local\Temp\RSPCA95.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/u盾写入.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Administrator\桌面\u盾写入工具\StdAfx.cpp"
+]
+Creating command line "cl.exe @G:\Users\ADMINI~1\AppData\Local\Temp\RSPCA95.tmp" 
+Creating temporary file "G:\Users\ADMINI~1\AppData\Local\Temp\RSPCA96.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/u盾写入.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入.cpp"
+"C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp"
+]
+Creating command line "cl.exe @G:\Users\ADMINI~1\AppData\Local\Temp\RSPCA96.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/u盾写入.pdb" /debug /machine:I386 /out:"Debug/u盾写入.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\u盾写入.obj" ".\Debug\u盾写入Dlg.obj" ".\Debug\u盾写入.res" ".\NT77.lib" "
+<h3>Output Window</h3>
+Compiling...
+StdAfx.cpp
+Compiling...
+u盾写入.cpp
+u盾写入Dlg.cpp
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(96) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(97) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(97) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(97) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(97) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(98) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(99) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(100) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(175) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(175) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(175) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(175) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(200) : warning C4200: nonstandard extension used : zero-sized array in struct/union
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(300) : error C2143: syntax error : missing ';' before 'if'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(311) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(311) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(313) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(313) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(314) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(314) : warning C4309: 'initializing' : truncation of constant value
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(314) : warning C4305: 'initializing' : truncation from 'const int' to 'char'
+C:\Documents and Settings\Administrator\桌面\u盾写入工具\u盾写入Dlg.cpp(314) : warning C4309: 'initializing' : truncation of constant value
+Generating Code...
+执行 cl.exe 时出错.
+Creating command line "bscmake.exe /nologo /o"Debug/u盾写入.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\u盾写入.sbr" ".\Debug\u盾写入Dlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+u盾写入.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
